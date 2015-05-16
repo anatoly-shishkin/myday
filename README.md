@@ -1,10 +1,11 @@
 # MyDay Blog
 
-[![Build Status](https://secure.travis-ci.org/symfony-cmf/standard-edition.png)](http://travis-ci.org/symfony-cmf/standard-edition)
+[![Build Status](https://secure.travis-ci.org/anatoly-shishkin/myday)](http://travis-ci.org/anatoly-shishkin/myday)
 [![Latest Stable Version](https://poser.pugx.org/symfony-cmf/standard-edition/version.png)](https://packagist.org/packages/symfony-cmf/standard-edition)
 [![Total Downloads](https://poser.pugx.org/symfony-cmf/standard-edition/d/total.png)](https://packagist.org/packages/symfony-cmf/standard-edition)
 
 MyDay Blog is based on the Symfony CMF Standard Edition (SE)
+
 
 ## Requirements
 
