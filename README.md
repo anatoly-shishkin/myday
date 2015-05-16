@@ -1,6 +1,6 @@
 # MyDay Blog
 
-[![Build Status](https://secure.travis-ci.org/anatoly-shishkin/myday)](http://travis-ci.org/anatoly-shishkin/myday)
+[![Build Status](https://secure.travis-ci.org/anatoly-shishkin/myday.png)](http://travis-ci.org/anatoly-shishkin/myday)
 [![Latest Stable Version](https://poser.pugx.org/symfony-cmf/standard-edition/version.png)](https://packagist.org/packages/symfony-cmf/standard-edition)
 [![Total Downloads](https://poser.pugx.org/symfony-cmf/standard-edition/d/total.png)](https://packagist.org/packages/symfony-cmf/standard-edition)
 
